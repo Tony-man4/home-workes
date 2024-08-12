@@ -1,0 +1,5 @@
+print('hallo')
+print('hallo world')
+print('I`m Anton')
+it=int(155+5)
+print(it)
